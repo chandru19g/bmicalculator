@@ -8,7 +8,8 @@
 
 ````provider -> State Management
 new_version -> to check app version in app store and push update
-flutter_font_awesome -> For beautiful Icons````
+flutter_font_awesome -> For beautiful Icons
+````
 
 
 -----------------------------------------------------------
